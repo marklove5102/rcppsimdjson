@@ -1,3 +1,8 @@
+2025-03-06  Dirk Eddelbuettel  <edd@debian.org>
+
+	* inst/include/simdjson.h: Updated to simdjson 3.9.5 (plus 2 commits)
+	* inst/include/simdjson.cpp: Idem
+
 2024-10-17  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Authors@R): Added
