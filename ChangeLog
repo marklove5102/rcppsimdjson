@@ -1,5 +1,7 @@
 2025-03-06  Dirk Eddelbuettel  <edd@debian.org>
 
+	* DESCRIPTION (Version, Date): Roll micro version and date
+
 	* inst/include/simdjson.h: Updated to simdjson 3.9.5 (plus 2 commits)
 	* inst/include/simdjson.cpp: Idem
 
