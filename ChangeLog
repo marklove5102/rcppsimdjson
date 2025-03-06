@@ -2,6 +2,9 @@
 
 	* DESCRIPTION (Version, Date): Roll micro version and date
 
+	* .github/workflows/ci.yaml: Expand the compiler matrix to g++ 13 and
+	14, simplify to r-ci setup with embedded bootstrap step
+
 	* inst/include/simdjson.h: Updated to simdjson 3.9.5 (plus 2 commits)
 	* inst/include/simdjson.cpp: Idem
 
@@ -15,7 +18,7 @@
 
 2024-07-17  Daniel Lemire  <daniel@lemire.me>
 
-	* inst/include/RcppSimdJson/deserialize/scalar.hpp: guarded a call to
+	* inst/include/RcppSimdJson/deserialize/scalar.hpp: Guarded a call to
 	std::string::erase
 
 2024-07-06  Dirk Eddelbuettel  <edd@debian.org>
