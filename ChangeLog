@@ -5,6 +5,10 @@
 
 	* README.md: Replace gnu.org URL for GPL-2 with one at R-project.org
 
+	* src/Makevars: Remove explicit setting for C++17
+	* src/Makevars.win: Idem
+	* DESCRIPTION: Idem
+
 2025-09-13  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Version, Date): Release 0.1.14
