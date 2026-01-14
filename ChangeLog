@@ -1,5 +1,7 @@
 2026-01-14  Dirk Eddelbuettel  <edd@debian.org>
 
+	* DESCRIPTION (Version, Date): Release 0.1.15
+
 	* .github/workflows/ci.yaml: Remove gcc-{10,11} from matrix, roll
 	checkout action to v6
 
